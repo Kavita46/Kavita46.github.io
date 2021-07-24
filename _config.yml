@@ -1,9 +1,9 @@
 # Site settings
-title: 石瑠的写字台
-SEOTitle: 石瑠的写字台
+title: 无病呻吟
+SEOTitle: 无病呻吟
 header-img: img/post-bg-desk.jpg
 email: Lawshin39@gmail.com
-description: "你再不来，我就要下雪了。"
+description: "只是个简单的一亩三分地"
 keyword: "个人博客, maimaiDX, 书影音"
 url: "https://Kavita46.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
